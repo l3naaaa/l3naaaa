@@ -2,6 +2,7 @@
 
 <!--
 **l3naaaa/l3naaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screenshot 2025-02-24 041524](https://github.com/user-attachments/assets/bf60b0c6-7a9e-426e-b057-5af9c4a1aeb9)
 
 Here are some ideas to get you started:
 
