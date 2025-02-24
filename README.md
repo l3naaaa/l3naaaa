@@ -1,4 +1,4 @@
-## Hi, I'm Alina, a passionate software engineer with a degree in computer science. I thrive on creating innovative, efficient solutions and have a strong foundation in web development. My career goal is to join a dynamic team where I can contribute my skills to solving rreal world problems, continuing to learn new technologies, and grow into a well rounded software engineer. ✨
+Hi, I'm <span style="color: #FF69B4;">Alina</span>, a passionate software engineer with a degree in Computer Science. I thrive on creating innovative, efficient solutions and have a strong foundation in web development. My career goal is to join a dynamic team where I can contribute my skills to solving real world problems, continue learning new technologies, and grow into a well rounded software engineer. ✨
 
 
 
