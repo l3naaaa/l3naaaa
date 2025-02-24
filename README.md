@@ -3,6 +3,7 @@ Hi, I'm <span style="color: #FF69B4;">Alina</span>, a passionate software engine
 
 
 ![Screenshot 2025-02-24 041524](https://github.com/user-attachments/assets/bf60b0c6-7a9e-426e-b057-5af9c4a1aeb9)
+<img src="https://github.com/user-attachments/assets/bf60b0c6-7a9e-426e-b057-5af9c4a1aeb9" alt="Tech Kitty" width="300">
 
 
 <!--
