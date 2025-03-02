@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/3f22c8d5-6599-4a65-8093-1eacd980aed3)
 
 
-h
+
 
 Hi, I'm <font color="#FF69B4">Alina</font>, a passionate software engineer with a degree in Computer Science. I thrive on creating innovative, efficient solutions and have a strong foundation in web development. My career goal is to join a dynamic team where I can contribute my skills to solving real world problems, continue learning new technologies, and grow into a well rounded software engineer. ✨
 
